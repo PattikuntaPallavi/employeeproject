@@ -1,0 +1,4 @@
+102,lakshmi,gbs,32000.0,31,admin,female
+103,chandana,gbs,32000.0,32,admin,female
+104,durga,gbs,32000.0,34,quality,female
+105,daminee,gbs,32000.0,33,hr,female
